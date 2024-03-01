@@ -1,0 +1,14 @@
+/* css with li */
+li{
+    color: rgb(255, 0, 0);
+}
+
+/* css with class name */
+.topitems{
+    color: rgb(191, 255, 0);
+}
+
+/* css with id */
+#two{
+    border: 2px solid red;
+}

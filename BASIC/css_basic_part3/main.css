@@ -1,0 +1,36 @@
+/* First Div css with class */
+.firstDiv{
+    color: tomato;
+}
+
+/* Second Div css with class */
+.secondDiv{
+    color: rgb(82, 6, 85);
+}
+
+/* Paragraph css with ID */
+#singledout{
+    color: rgb(9, 87, 87);
+    text-decoration: line-through;
+}
+
+/* css for all with stricts */
+/* *{
+    color: cornflowerblue;
+} */
+
+/* css with element + element */
+h3 + ul{
+    border: 4px solid purple;
+}
+
+/* css with element after elemrnt */
+li a{
+    color:teal;
+}
+
+/* css with particular anchor tag */
+li a[href="www.npr.com"]{
+    color: rgb(87, 60, 25);
+    border: 3px solid red;
+}

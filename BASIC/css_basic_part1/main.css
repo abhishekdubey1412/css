@@ -1,0 +1,19 @@
+/* h1 css */
+h1 {
+    color: brown;
+}
+
+/* Paragraph css */
+p{
+    color: #00ffff;
+}
+
+/* Ordered Item css */
+ol li{
+    color: rgb(5, 191, 197);
+}
+
+/* h4 css */
+h4{
+    color: rgba(245, 40, 145, 0.8);
+}

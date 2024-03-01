@@ -1,0 +1,25 @@
+/* body css */
+body{
+    /* background-color: black; */
+    background: url(https://m.media-amazon.com/images/I/71FE6R67R3L._AC_UF894,1000_QL80_.jpg);
+    background-repeat: repeat-x;
+}
+
+/* div css */
+div{
+    background: coral;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+/* Paragraph css */
+p{
+    color: white;
+}
+
+/* Span css */
+span{
+    background: black;
+    color: brown;
+}

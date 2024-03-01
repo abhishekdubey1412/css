@@ -1,0 +1,38 @@
+h1{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    text-decoration: underline;
+  }
+
+.art{
+    margin: auto;
+}
+
+td{
+    width: 100px;
+    height: 300px;
+    border: 3px solid white;
+}
+
+#one{
+    background-color: rgb(0, 76, 252);
+}
+
+#two{
+    background-color: rgb(2, 100, 100);
+}
+
+#three{
+    background-color: rgb(74, 133, 133);
+}
+
+#four{
+    background-color: rgb(225, 239, 75);
+}
+
+#five{
+    background-color: rgb(255, 58, 58);
+}
